@@ -4,11 +4,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Latest-green)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive-red)
 
-## 📊 Project Overview
+## Project Overview
 
 A comprehensive exploratory data analysis of trending hashtags on Twitter/X from 2020 to 2025, examining 12,036 unique trending entries across six years. This project analyzes viral phenomena, cultural moments, and major world events through the lens of social media trending data.
 
-## 🎯 Objectives
+## Objectives
 
 - Identify trending patterns and seasonal variations in viral content
 - Analyze the lifecycle of trending hashtags
@@ -16,7 +16,7 @@ A comprehensive exploratory data analysis of trending hashtags on Twitter/X from
 - Discover peak engagement periods and content themes
 - Extract actionable insights for social media strategy
 
-## 📁 Dataset
+## Dataset
 
 **Source:** Kaggle - Twitter/X Trending Hashtags (2020-2025)  
 **Records:** 12,036 unique trend entries  
@@ -33,7 +33,7 @@ Columns:
 - rank: Trending rank position
 ```
 
-## 🔍 Key Analyses
+## Key Analyses
 
 ### 1. Temporal Trends Analysis
 - Year-over-year trending patterns
@@ -67,7 +67,7 @@ Columns:
 - **Plotly** - Interactive visualizations
 - **Jupyter Notebook** - Analysis environment
 
-## 📈 Visualizations
+## Visualizations
 
 The project includes:
 - Interactive timeline visualizations
@@ -77,7 +77,7 @@ The project includes:
 - Word clouds for popular topics
 - Time series analysis of major events
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 ```bash
@@ -107,7 +107,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/twitter_trends_analysis.ipynb
 ```
 
-## 📊 Key Findings
+## Key Findings
 
 *Findings will be updated after completing the analysis*
 
@@ -116,7 +116,7 @@ jupyter notebook notebooks/twitter_trends_analysis.ipynb
 - Cultural moments vs. news events have distinct trending patterns
 - [Additional insights from analysis]
 
-## 📝 Project Structure
+## Project Structure
 
 ```
 twitter-trends-eda/
@@ -136,7 +136,7 @@ twitter-trends-eda/
 └── README.md                       # Project documentation
 ```
 
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 
 - **Data Cleaning:** Handling timestamps, missing values, and data quality issues
 - **Exploratory Data Analysis:** Statistical analysis and pattern recognition
@@ -145,17 +145,17 @@ twitter-trends-eda/
 - **Statistical Thinking:** Drawing insights from large datasets
 - **Technical Communication:** Presenting findings clearly and professionally
 
-## 👤 Author
+## Author
 
 **Monse Rojo**
 - LinkedIn: [linkedin.com/in/monse-rojo-6b70b3397](https://www.linkedin.com/in/monse-rojo-6b70b3397/)
 - GitHub: [github.com/cyberyimi](https://github.com/cyberyimi)
 
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Dataset provided by Kaggle community
 - Inspired by the evolution of social media trends 2020-2025
@@ -163,4 +163,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-*Last Updated: December 2024*
+*Last Updated: January 2026*
